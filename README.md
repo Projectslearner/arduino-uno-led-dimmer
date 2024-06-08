@@ -30,7 +30,7 @@ Steps to Build the Circuit
   - This change in voltage will adjust the PWM signal sent to the LED, effectively dimming or brightening the LED.
 
 ---
-### Whether you're working on electronics projects, IoT applications, or robotics innovations, Projects Learner is your go-to platform for guidance and expertise.
+### Whether you're working on Electronics Projects, IoT applications, or robotics innovations, ProjectsLearner is your go-to platform for guidance and expertise.
 
 🌐 [projectslearner.com](https://www.projectslearner.com)<br/>
 📧 [Email Us](mailto:projectslearner@gmail.com)<br/>
