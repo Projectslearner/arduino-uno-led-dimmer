@@ -1,7 +1,7 @@
 /*
-    Code by : Projectslearner
     Project name : LED Dimmer
     Modified Date: 08-06-2024
+    Code by : Projectslearner
     Website : https://projectslearner.com/learn/arduino-uno-led-dimmer
 */
 
